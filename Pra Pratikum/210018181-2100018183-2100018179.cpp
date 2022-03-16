@@ -51,6 +51,7 @@ int main ()
 {
 	cetakgaris(20);
 	cout<<"KALKULATOR SEDERHANA"<<endl;
+	couy<<"Presented by : [2100018179],[2100018181],[2100018183]"<<endl;
 	cetakgaris(20);
 	cout<<"Menu Operasi :"<<endl;
 	cout<<"1. Penambahan"<<endl;
