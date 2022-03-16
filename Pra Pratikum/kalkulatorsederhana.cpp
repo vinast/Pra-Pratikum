@@ -1,5 +1,5 @@
       
-      // NAMA : DIDIK VINASTU                  // Kamis, 2 Desember 2021
+      // NAMA : DIDIK VINASTU                 
       // NIM  : 2100018181
 
 
