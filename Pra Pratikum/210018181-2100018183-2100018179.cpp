@@ -1,8 +1,3 @@
-      
-      // NAMA : DIDIK VINASTU                 
-      // NIM  : 2100018181
-
-
 #include <iostream>
 #include <math.h>
 using namespace std;
