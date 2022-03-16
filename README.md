@@ -1,5 +1,5 @@
 # Pra-Praktikum
-Tugas pra pratikum membuat repository dan upload tugas kalkulator
+Tugas pra praktikum membuat repository dan upload tugas kalkulator
 
 TUGAS KELOMPOK 
 
